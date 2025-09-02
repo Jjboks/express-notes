@@ -10,3 +10,7 @@ Error: P1000: Authentication failed against database server, the provided databa
 
 Please make sure to provide valid database credentials for the database server at the configured address."
 
+Additional:
+"Added a function for updating database"
+
+
